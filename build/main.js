@@ -6,7 +6,7 @@ import { isArr } from './modules/arrays.js';
   const textEl = document.getElementById('text');
   const transcriptionEl = document.getElementById('transcription');
 
-  loadJSON('../data/catalog.json').then((data) => {
+  loadJSON('data/catalog.json').then((data) => {
     const twisters = getObjProp(data, ['twisters']);
     const twisterName = window.location.search.substr(1);
     let twister;
