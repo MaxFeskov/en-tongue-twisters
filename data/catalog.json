@@ -1,48 +1,56 @@
 {
   "twisters": [
     {
+      "name": "e1",
       "text": "A big black bug bit the big black bear, but the big black bear bit the big black bug back!",
       "transcription": "ə bɪg blæk bʌg bɪt ðə bɪg blæk beə, bʌt ðə bɪg blæk beə bɪt ðə bɪg blæk bʌg bæk!",
       "audio": "e1.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e2",
       "text": "How can a clam cram in a clean cream can?",
       "transcription": "haʊ kæn ə klæm kræm ɪn ə kliːn kriːm kæn?",
       "audio": "e2.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e3",
       "text": "Four furious friends fought for the phone.",
       "transcription": "fɔː ˈfjʊərɪəs frɛndz fɔːt fə ðə fəʊn.",
       "audio": "e3.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e4",
       "text": "Green glass globes glow greenly.",
       "transcription": "griːn glɑːs ˈgləʊbz gləʊ ˈgriːnli.",
       "audio": "e4.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e5",
       "text": "I scream, you scream, we all scream for ice cream!",
       "transcription": "aɪ skriːm, juː skriːm, wiː ɔːl skriːm fɔːr aɪs kriːm!",
       "audio": "e5.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e6",
       "text": "There's a sandwich on the sand which was sent by a sane witch.",
       "transcription": "ðeəz ə ˈsænwɪʤ ɒn ðə sænd wɪʧ wɒz sɛnt baɪ ə seɪn wɪʧ.",
       "audio": "e6.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e7",
       "text": "Knife and a fork, bottle and a cork, that is the way you spell New York.",
       "transcription": "naɪf ænd ə fɔːk, ˈbɒtl ænd ə kɔːk, ðæt ɪz ðə weɪ juː spɛl njuː jɔːk.",
       "audio": "e7.mp3",
       "difficulty": "easy"
     },
     {
+      "name": "e8",
       "text": "I saw Susie sitting in a shoe shine shop.",
       "transcription": "aɪ sɔː ˈsuːzi ˈsɪtɪŋ ɪn ə ʃuː ʃaɪn ʃɒp.",
       "audio": "e8.mp3",
