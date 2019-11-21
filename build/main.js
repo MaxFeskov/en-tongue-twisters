@@ -5,6 +5,8 @@ import { isArr } from './modules/arrays.js';
 (() => {
   const textEl = document.getElementById('text');
   const transcriptionEl = document.getElementById('transcription');
+  const prevEl = document.getElementById('prev');
+  const nextEl = document.getElementById('next');
 
   loadJSON('data/catalog.json').then((data) => {
     const twisters = getObjProp(data, ['twisters']);
@@ -32,6 +34,22 @@ import { isArr } from './modules/arrays.js';
 
       if (transcriptionEl) {
         transcriptionEl.innerHTML = twister.transcription;
+      }
+
+      const index = twisters.indexOf(twister);
+
+      if (prevEl) {
+        if (index !== -1 && index !== 0) {
+          prevEl.classList.remove('hide');
+          prevEl.href = `?${getObjProp(twisters, [index - 1, 'name'])}`;
+        }
+      }
+
+      if (nextEl) {
+        if (index !== -1 && index !== twisters.length - 1) {
+          nextEl.classList.remove('hide');
+          nextEl.href = `?${getObjProp(twisters, [index + 1, 'name'])}`;
+        }
       }
     }
   });

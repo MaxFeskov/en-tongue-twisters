@@ -8,20 +8,41 @@ table {border-collapse:collapse;border-spacing:0;}
 input,textarea,select {font-family:inherit;font-size:inherit;font-weight:inherit;}
 input,textarea,select {font-size:100%;}
 button {background-color:transparent;text-decoration:none;}
+a {color: inherit;}
 *,*::before,*::after {box-sizing:border-box;}
+
+
+html,
+body {
+	height: 100%;
+}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   padding: 10px 20px;
   line-height: 1.2em;
+  color: #333;
 }
 
-.container {
+.wrapper {
+	display: flex;
+	flex-direction: column;
+  min-height: 100%;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.content {
+  flex: 1 0 auto;
   padding: 20px 15px;
+}
+
+.footer {
+  flex: 0 0 auto;
+  padding: 20px 15px 0;
+  text-align: center;
 }
 
 #text, #transcription {
@@ -30,4 +51,29 @@ body {
 
 #transcription {
   font-style: italic;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 30px;
+  text-align: center;
+  line-height: 48px;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.btn.hide {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.btn:hover {
+  background: #333;
+  color: white;
 }
