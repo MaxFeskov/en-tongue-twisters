@@ -10,6 +10,7 @@ import recognition from "./modules/speech.js";
   const nextEl = document.getElementById("next");
   const playEl = document.getElementById("play");
   const startEl = document.getElementById("start");
+  const stopEl = document.getElementById("stop");
   const recordEl = document.getElementById("record");
 
   loadJSON("data/catalog.json").then((data) => {
@@ -76,6 +77,8 @@ import recognition from "./modules/speech.js";
       if (startEl) {
         startEl.addEventListener("click", () => {
           recognition.start();
+          startEl.classList.add("hide");
+          stopEl.classList.remove("hide");
 
           if (recordEl) {
             recordEl.innerHTML = "Recording in progress...";
@@ -85,6 +88,8 @@ import recognition from "./modules/speech.js";
 
         recognition.onspeechend = () => {
           recognition.stop();
+          startEl.classList.remove("hide");
+          stopEl.classList.add("hide");
 
           if (recordEl) {
             recordEl.classList.remove("pulse");
@@ -93,6 +98,8 @@ import recognition from "./modules/speech.js";
 
         recognition.onerror = (event) => {
           recordEl.innerHTML = event.error;
+          startEl.classList.remove("hide");
+          stopEl.classList.add("hide");
 
           if (recordEl) {
             recordEl.classList.remove("pulse");
@@ -104,6 +111,14 @@ import recognition from "./modules/speech.js";
             recordEl.innerHTML = event.results[0][0].transcript;
           }
         };
+      }
+
+      if (stopEl) {
+        stopEl.addEventListener("click", () => {
+          recognition.stop();
+          startEl.classList.remove("hide");
+          stopEl.classList.add("hide");
+        });
       }
     }
   });
