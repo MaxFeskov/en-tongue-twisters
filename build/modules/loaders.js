@@ -1,8 +1,8 @@
-import { isArr } from './arrays.js';
+import { isArr } from "./arrays.js";
 
 export function loadJSON(url) {
   return fetch(url)
-    .then(r => r.json())
+    .then((r) => r.json())
     .catch(() => console.log(`Error loaded ${url}`));
 }
 

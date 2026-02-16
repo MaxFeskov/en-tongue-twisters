@@ -1,10 +1,10 @@
-import { isArr } from './arrays.js';
+import { isArr } from "./arrays.js";
 
 export function isObj(obj) {
   return obj ? obj === Object(obj) : false;
 }
 export function isEmptyObj(object) {
-  return JSON.stringify(object) === '{}';
+  return JSON.stringify(object) === "{}";
 }
 export function isEqualObj(obj1, obj2) {
   const aProps = Object.getOwnPropertyNames(obj1);
@@ -44,7 +44,11 @@ export function getObjProp(obj, arrProp) {
     let object = obj;
 
     for (let i = 0; i < arrProp.length; i++) {
-      if (object != null && typeof object === 'object' && object[arrProp[i]] !== undefined) {
+      if (
+        object != null &&
+        typeof object === "object" &&
+        object[arrProp[i]] !== undefined
+      ) {
         object = object[arrProp[i]];
       } else {
         return undefined;

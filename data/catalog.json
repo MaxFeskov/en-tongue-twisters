@@ -1,207 +1,207 @@
 {
   "twisters": [
     {
+      "audio": "e1.mp3",
+      "difficulty": "easy",
       "name": "e1",
       "text": "A big black bug bit the big black bear, but the big black bear bit the big black bug back!",
-      "transcription": "ə bɪg blæk bʌg bɪt ðə bɪg blæk beə, bʌt ðə bɪg blæk beə bɪt ðə bɪg blæk bʌg bæk!",
-      "audio": "e1.mp3",
-      "difficulty": "easy"
+      "transcription": "ə bɪg blæk bʌg bɪt ðə bɪg blæk beə, bʌt ðə bɪg blæk beə bɪt ðə bɪg blæk bʌg bæk!"
     },
     {
+      "audio": "e2.mp3",
+      "difficulty": "easy",
       "name": "e2",
       "text": "How can a clam cram in a clean cream can?",
-      "transcription": "haʊ kæn ə klæm kræm ɪn ə kliːn kriːm kæn?",
-      "audio": "e2.mp3",
-      "difficulty": "easy"
+      "transcription": "haʊ kæn ə klæm kræm ɪn ə kliːn kriːm kæn?"
     },
     {
+      "audio": "e3.mp3",
+      "difficulty": "easy",
       "name": "e3",
       "text": "Four furious friends fought for the phone.",
-      "transcription": "fɔː ˈfjʊərɪəs frɛndz fɔːt fə ðə fəʊn.",
-      "audio": "e3.mp3",
-      "difficulty": "easy"
+      "transcription": "fɔː ˈfjʊərɪəs frɛndz fɔːt fə ðə fəʊn."
     },
     {
+      "audio": "e4.mp3",
+      "difficulty": "easy",
       "name": "e4",
       "text": "Green glass globes glow greenly.",
-      "transcription": "griːn glɑːs ˈgləʊbz gləʊ ˈgriːnli.",
-      "audio": "e4.mp3",
-      "difficulty": "easy"
+      "transcription": "griːn glɑːs ˈgləʊbz gləʊ ˈgriːnli."
     },
     {
+      "audio": "e5.mp3",
+      "difficulty": "easy",
       "name": "e5",
       "text": "I scream, you scream, we all scream for ice cream!",
-      "transcription": "aɪ skriːm, juː skriːm, wiː ɔːl skriːm fɔːr aɪs kriːm!",
-      "audio": "e5.mp3",
-      "difficulty": "easy"
+      "transcription": "aɪ skriːm, juː skriːm, wiː ɔːl skriːm fɔːr aɪs kriːm!"
     },
     {
+      "audio": "e6.mp3",
+      "difficulty": "easy",
       "name": "e6",
       "text": "There's a sandwich on the sand which was sent by a sane witch.",
-      "transcription": "ðeəz ə ˈsænwɪʤ ɒn ðə sænd wɪʧ wɒz sɛnt baɪ ə seɪn wɪʧ.",
-      "audio": "e6.mp3",
-      "difficulty": "easy"
+      "transcription": "ðeəz ə ˈsænwɪʤ ɒn ðə sænd wɪʧ wɒz sɛnt baɪ ə seɪn wɪʧ."
     },
     {
+      "audio": "e7.mp3",
+      "difficulty": "easy",
       "name": "e7",
       "text": "Knife and a fork, bottle and a cork, that is the way you spell New York.",
-      "transcription": "naɪf ænd ə fɔːk, ˈbɒtl ænd ə kɔːk, ðæt ɪz ðə weɪ juː spɛl njuː jɔːk.",
-      "audio": "e7.mp3",
-      "difficulty": "easy"
+      "transcription": "naɪf ænd ə fɔːk, ˈbɒtl ænd ə kɔːk, ðæt ɪz ðə weɪ juː spɛl njuː jɔːk."
     },
     {
+      "audio": "e8.mp3",
+      "difficulty": "easy",
       "name": "e8",
       "text": "I saw Susie sitting in a shoe shine shop. Where she sits she shines, and where she shines she sits.",
-      "transcription": "aɪ sɔː ˈsuːzi ˈsɪtɪŋ ɪn ə ʃuː ʃaɪn ʃɒp. weə ʃiː sɪts ʃiː ʃaɪnz, ænd weə ʃiː ʃaɪnz ʃiː sɪts.",
-      "audio": "e8.mp3",
-      "difficulty": "easy"
+      "transcription": "aɪ sɔː ˈsuːzi ˈsɪtɪŋ ɪn ə ʃuː ʃaɪn ʃɒp. weə ʃiː sɪts ʃiː ʃaɪnz, ænd weə ʃiː ʃaɪnz ʃiː sɪts."
     },
     {
+      "audio": "m1.mp3",
+      "difficulty": "medium",
       "name": "m1",
       "text": "Can you can a can as a canner can can a can?",
-      "transcription": "kæn juː kæn ə kæn æz ə ˈkænə kæn kæn ə kæn?",
-      "audio": "m1.mp3",
-      "difficulty": "medium"
+      "transcription": "kæn juː kæn ə kæn æz ə ˈkænə kæn kæn ə kæn?"
     },
     {
+      "audio": "m2.mp3",
+      "difficulty": "medium",
       "name": "m2",
       "text": "When you write copy you have the right to copyright the copy you write.",
-      "transcription": "wɛn juː raɪt ˈkɒpi juː hæv ðə raɪt tuː ˈkɒpɪraɪt ðə ˈkɒpi juː raɪt.",
-      "audio": "m2.mp3",
-      "difficulty": "medium"
+      "transcription": "wɛn juː raɪt ˈkɒpi juː hæv ðə raɪt tuː ˈkɒpɪraɪt ðə ˈkɒpi juː raɪt."
     },
     {
+      "audio": "m3.mp3",
+      "difficulty": "medium",
       "name": "m3",
       "text": "Fuzzy Wuzzy was a bear, Fuzzy Wuzzy had no hair, Fuzzy Wuzzy wasn't very fuzzy, was he?",
-      "transcription": "ˈfʌzi wʌzy wɒz ə beə, ˈfʌzi wʌzy hæd nəʊ heə, ˈfʌzi wʌzy wɒznt ˈvɛri ˈfʌzi, wɒz hiː?",
-      "audio": "m3.mp3",
-      "difficulty": "medium"
+      "transcription": "ˈfʌzi wʌzy wɒz ə beə, ˈfʌzi wʌzy hæd nəʊ heə, ˈfʌzi wʌzy wɒznt ˈvɛri ˈfʌzi, wɒz hiː?"
     },
     {
+      "audio": "m4.mp3",
+      "difficulty": "medium",
       "name": "m4",
       "text": "How many cookies could a good cook cook If a good cook could cook cookies? A good cook could cook as much cookies as a good cook who could cook cookies.",
-      "transcription": "haʊ ˈmɛni ˈkʊkiz kʊd ə gʊd kʊk kʊk ɪf ə gʊd kʊk kʊd kʊk ˈkʊkiz? ə gʊd kʊk kʊd kʊk æz mʌʧ ˈkʊkiz æz ə gʊd kʊk huː kʊd kʊk ˈkʊkiz.",
-      "audio": "m4.mp3",
-      "difficulty": "medium"
+      "transcription": "haʊ ˈmɛni ˈkʊkiz kʊd ə gʊd kʊk kʊk ɪf ə gʊd kʊk kʊd kʊk ˈkʊkiz? ə gʊd kʊk kʊd kʊk æz mʌʧ ˈkʊkiz æz ə gʊd kʊk huː kʊd kʊk ˈkʊkiz."
     },
     {
+      "audio": "m5.mp3",
+      "difficulty": "medium",
       "name": "m5",
       "text": "How many cans can a cannibal nibble, if a cannibal can nibble cans? As many cans as a cannibal can nibble if a cannibal can nibble cans.",
-      "transcription": "haʊ ˈmɛni kænz kæn ə ˈkænɪbəl ˈnɪbl, ɪf ə ˈkænɪbəl kæn ˈnɪbl kænz? æz ˈmɛni kænz æz ə ˈkænɪbəl kæn ˈnɪbl ɪf ə ˈkænɪbəl kæn ˈnɪbl kænz.",
-      "audio": "m5.mp3",
-      "difficulty": "medium"
+      "transcription": "haʊ ˈmɛni kænz kæn ə ˈkænɪbəl ˈnɪbl, ɪf ə ˈkænɪbəl kæn ˈnɪbl kænz? æz ˈmɛni kænz æz ə ˈkænɪbəl kæn ˈnɪbl ɪf ə ˈkænɪbəl kæn ˈnɪbl kænz."
     },
     {
+      "audio": "m6.mp3",
+      "difficulty": "medium",
       "name": "m6",
       "text": "I have got a date at a quarter to eight; I'll see you at the gate,so don't be late.",
-      "transcription": "aɪ hæv gɒt ə deɪt æt ə ˈkwɔːtə tuː eɪt; aɪl siː juː æt ðə geɪt,səʊ dəʊnt biː leɪt.",
-      "audio": "m6.mp3",
-      "difficulty": "medium"
+      "transcription": "aɪ hæv gɒt ə deɪt æt ə ˈkwɔːtə tuː eɪt; aɪl siː juː æt ðə geɪt,səʊ dəʊnt biː leɪt."
     },
     {
+      "audio": "m7.mp3",
+      "difficulty": "medium",
       "name": "m7",
       "text": "I thought, I thought of thinking of thanking you.",
-      "transcription": "aɪ θɔːt, aɪ θɔːt ɒv ˈθɪŋkɪŋ ɒv ˈθæŋkɪŋ juː.",
-      "audio": "m7.mp3",
-      "difficulty": "medium"
+      "transcription": "aɪ θɔːt, aɪ θɔːt ɒv ˈθɪŋkɪŋ ɒv ˈθæŋkɪŋ juː."
     },
     {
+      "audio": "m8.mp3",
+      "difficulty": "medium",
       "name": "m8",
       "text": "One-one was a race horse. Two-two was one too. One-one won one race. Two-two won one too.",
-      "transcription": "wʌn-wʌn wɒz ə reɪs hɔːs. tuː-tuː wɒz wʌn tuː. wʌn-wʌn wʌn wʌn reɪs. tuː-tuː wʌn wʌn tuː.",
-      "audio": "m8.mp3",
-      "difficulty": "medium"
+      "transcription": "wʌn-wʌn wɒz ə reɪs hɔːs. tuː-tuː wɒz wʌn tuː. wʌn-wʌn wʌn wʌn reɪs. tuː-tuː wʌn wʌn tuː."
     },
     {
+      "audio": "m9.mp3",
+      "difficulty": "medium",
       "name": "m9",
       "text": "Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked. If Peter Piper picked a peck of pickled peppers, Where's the peck of pickled peppers Peter Piper picked?",
-      "transcription": "ˈpiːtə ˈpaɪpə pɪkt ə pɛk ɒv ˈpɪkld ˈpɛpəz. ə pɛk ɒv ˈpɪkld ˈpɛpəz ˈpiːtə ˈpaɪpə pɪkt. ɪf ˈpiːtə ˈpaɪpə pɪkt ə pɛk ɒv ˈpɪkld ˈpɛpəz, weəz ðə pɛk ɒv ˈpɪkld ˈpɛpəz ˈpiːtə ˈpaɪpə pɪkt?",
-      "audio": "m9.mp3",
-      "difficulty": "medium"
+      "transcription": "ˈpiːtə ˈpaɪpə pɪkt ə pɛk ɒv ˈpɪkld ˈpɛpəz. ə pɛk ɒv ˈpɪkld ˈpɛpəz ˈpiːtə ˈpaɪpə pɪkt. ɪf ˈpiːtə ˈpaɪpə pɪkt ə pɛk ɒv ˈpɪkld ˈpɛpəz, weəz ðə pɛk ɒv ˈpɪkld ˈpɛpəz ˈpiːtə ˈpaɪpə pɪkt?"
     },
     {
+      "audio": "m10.mp3",
+      "difficulty": "medium",
       "name": "m10",
       "text": "Seven slick slimy snails, slowly sliding southward.",
-      "transcription": "ˈsɛvn slɪk ˈslaɪmi sneɪlz, ˈsləʊli ˈslaɪdɪŋ ˈsaʊθwəd.",
-      "audio": "m10.mp3",
-      "difficulty": "medium"
+      "transcription": "ˈsɛvn slɪk ˈslaɪmi sneɪlz, ˈsləʊli ˈslaɪdɪŋ ˈsaʊθwəd."
     },
     {
+      "audio": "m11.mp3",
+      "difficulty": "medium",
       "name": "m11",
       "text": "Chicken in the car and the car can go, that is the way you spell Chicago.",
-      "transcription": "ˈʧɪkɪn ɪn ðə kɑːr ænd ðə kɑː kæn gəʊ, ðæt ɪz ðə weɪ juː spɛl ʃɪˈkɑːgəʊ.",
-      "audio": "m11.mp3",
-      "difficulty": "medium"
+      "transcription": "ˈʧɪkɪn ɪn ðə kɑːr ænd ðə kɑː kæn gəʊ, ðæt ɪz ðə weɪ juː spɛl ʃɪˈkɑːgəʊ."
     },
     {
+      "audio": "m12.mp3",
+      "difficulty": "medium",
       "name": "m12",
       "text": "The thirty-three thieves thought that they thrilled the throne throughout Thursday.",
-      "transcription": "ðə ˈθɜːti-θriː θiːvz θɔːt ðæt ðeɪ θrɪld ðə θrəʊn θru(ː)ˈaʊt ˈθɜːzdeɪ.",
-      "audio": "m12.mp3",
-      "difficulty": "medium"
+      "transcription": "ðə ˈθɜːti-θriː θiːvz θɔːt ðæt ðeɪ θrɪld ðə θrəʊn θru(ː)ˈaʊt ˈθɜːzdeɪ."
     },
     {
+      "audio": "m13.mp3",
+      "difficulty": "medium",
       "name": "m13",
       "text": "If two witches would watch two watches, which witch would watch which watch?",
-      "transcription": "ɪf tuː ˈwɪʧɪz wʊd wɒʧ tuː ˈwɒʧɪz, wɪʧ wɪʧ wʊd wɒʧ wɪʧ wɒʧ?",
-      "audio": "m13.mp3",
-      "difficulty": "medium"
+      "transcription": "ɪf tuː ˈwɪʧɪz wʊd wɒʧ tuː ˈwɒʧɪz, wɪʧ wɪʧ wʊd wɒʧ wɪʧ wɒʧ?"
     },
     {
+      "audio": "m14.mp3",
+      "difficulty": "medium",
       "name": "m14",
       "text": "If you understand, say understand. If you don't understand, say don't understand. But if you understand and say don't understand. how do I understand that you understand?",
-      "transcription": "ɪf juː ˌʌndəˈstænd, seɪ ˌʌndəˈstænd. ɪf juː dəʊnt ˌʌndəˈstænd, seɪ dəʊnt ˌʌndəˈstænd. bʌt ɪf juː ˌʌndəˈstænd ænd seɪ dəʊnt ˌʌndəˈstænd. haʊ duː aɪ ˌʌndəˈstænd ðæt juː ˌʌndəˈstænd?",
-      "audio": "m14.mp3",
-      "difficulty": "medium"
+      "transcription": "ɪf juː ˌʌndəˈstænd, seɪ ˌʌndəˈstænd. ɪf juː dəʊnt ˌʌndəˈstænd, seɪ dəʊnt ˌʌndəˈstænd. bʌt ɪf juː ˌʌndəˈstænd ænd seɪ dəʊnt ˌʌndəˈstænd. haʊ duː aɪ ˌʌndəˈstænd ðæt juː ˌʌndəˈstænd?"
     },
     {
+      "audio": "m15.mp3",
+      "difficulty": "medium",
       "name": "m15",
       "text": "Whether the weather be fine, or whether the weather be not. Whether the weather be cold, or whether the weather be hot. We'll weather the weather whether we like it or not.",
-      "transcription": "ˈwɛðə ðə ˈwɛðə biː faɪn, ɔː ˈwɛðə ðə ˈwɛðə biː nɒt. ˈwɛðə ðə ˈwɛðə biː kəʊld, ɔː ˈwɛðə ðə ˈwɛðə biː hɒt. wiːl ˈwɛðə ðə ˈwɛðə ˈwɛðə wiː laɪk ɪt ɔː nɒt.",
-      "audio": "m15.mp3",
-      "difficulty": "medium"
+      "transcription": "ˈwɛðə ðə ˈwɛðə biː faɪn, ɔː ˈwɛðə ðə ˈwɛðə biː nɒt. ˈwɛðə ðə ˈwɛðə biː kəʊld, ɔː ˈwɛðə ðə ˈwɛðə biː hɒt. wiːl ˈwɛðə ðə ˈwɛðə ˈwɛðə wiː laɪk ɪt ɔː nɒt."
     },
     {
+      "audio": "d1.mp3",
+      "difficulty": "difficult",
       "name": "d1",
       "text": "Betty bought some butter, but the butter Betty bought was bitter, so Betty bought some better butter, and the better butter Betty bought was better than the bitter butter Betty bought before!",
-      "transcription": "ˈbɛti bɔːt sʌm ˈbʌtə, bʌt ðə ˈbʌtə ˈbɛti bɔːt wɒz ˈbɪtə, səʊ ˈbɛti bɔːt sʌm ˈbɛtə ˈbʌtə, ænd ðə ˈbɛtə ˈbʌtə ˈbɛti bɔːt wɒz ˈbɛtə ðæn ðə ˈbɪtə ˈbʌtə ˈbɛti bɔːt bɪˈfɔː!",
-      "audio": "d1.mp3",
-      "difficulty": "difficult"
+      "transcription": "ˈbɛti bɔːt sʌm ˈbʌtə, bʌt ðə ˈbʌtə ˈbɛti bɔːt wɒz ˈbɪtə, səʊ ˈbɛti bɔːt sʌm ˈbɛtə ˈbʌtə, ænd ðə ˈbɛtə ˈbʌtə ˈbɛti bɔːt wɒz ˈbɛtə ðæn ðə ˈbɪtə ˈbʌtə ˈbɛti bɔːt bɪˈfɔː!"
     },
     {
+      "audio": "d2.mp3",
+      "difficulty": "difficult",
       "name": "d2",
       "text": "I bought a bit of baking powder and baked a batch of biscuits. I brought a big basket of biscuits back to the bakery and baked a basket of big biscuits. Then I took the big basket of biscuits and the basket of big biscuits and mixed the big biscuits with the basket of biscuits that was next to the big basket and put a bunch of biscuits from the basket into a biscuit mixer and brought the basket of biscuits and the box of mixed biscuits and the biscuit mixer to the bakery and opened a tin of sardines.",
-      "transcription": "aɪ bɔːt ə bɪt ɒv ˈbeɪkɪŋ ˈpaʊdər ænd beɪkt ə bæʧ ɒv ˈbɪskɪts. aɪ brɔːt ə bɪg ˈbɑːskɪt ɒv ˈbɪskɪts bæk tuː ðə ˈbeɪkəri ænd beɪkt ə ˈbɑːskɪt ɒv bɪg ˈbɪskɪts. ðɛn aɪ tʊk ðə bɪg ˈbɑːskɪt ɒv ˈbɪskɪts ænd ðə ˈbɑːskɪt ɒv bɪg ˈbɪskɪts ænd mɪkst ðə bɪg ˈbɪskɪts wɪð ðə ˈbɑːskɪt ɒv ˈbɪskɪts ðæt wɒz nɛkst tuː ðə bɪg ˈbɑːskɪt ænd pʊt ə bʌnʧ ɒv ˈbɪskɪts frɒm ðə ˈbɑːskɪt ˈɪntuː ə ˈbɪskɪt ˈmɪksər ænd brɔːt ðə ˈbɑːskɪt ɒv ˈbɪskɪts ænd ðə bɒks ɒv mɪkst ˈbɪskɪts ænd ðə ˈbɪskɪt ˈmɪksə tuː ðə ˈbeɪkəri ænd ˈəʊpənd ə tɪn ɒv sɑːˈdiːnz.",
-      "audio": "d2.mp3",
-      "difficulty": "difficult"
+      "transcription": "aɪ bɔːt ə bɪt ɒv ˈbeɪkɪŋ ˈpaʊdər ænd beɪkt ə bæʧ ɒv ˈbɪskɪts. aɪ brɔːt ə bɪg ˈbɑːskɪt ɒv ˈbɪskɪts bæk tuː ðə ˈbeɪkəri ænd beɪkt ə ˈbɑːskɪt ɒv bɪg ˈbɪskɪts. ðɛn aɪ tʊk ðə bɪg ˈbɑːskɪt ɒv ˈbɪskɪts ænd ðə ˈbɑːskɪt ɒv bɪg ˈbɪskɪts ænd mɪkst ðə bɪg ˈbɪskɪts wɪð ðə ˈbɑːskɪt ɒv ˈbɪskɪts ðæt wɒz nɛkst tuː ðə bɪg ˈbɑːskɪt ænd pʊt ə bʌnʧ ɒv ˈbɪskɪts frɒm ðə ˈbɑːskɪt ˈɪntuː ə ˈbɪskɪt ˈmɪksər ænd brɔːt ðə ˈbɑːskɪt ɒv ˈbɪskɪts ænd ðə bɒks ɒv mɪkst ˈbɪskɪts ænd ðə ˈbɪskɪt ˈmɪksə tuː ðə ˈbeɪkəri ænd ˈəʊpənd ə tɪn ɒv sɑːˈdiːnz."
     },
     {
+      "audio": "d3.mp3",
+      "difficulty": "difficult",
       "name": "d3",
       "text": "When a doctor doctors a doctor, does the doctor doing the doctoring doctor as the doctor being doctored wants to be doctored or does the doctor doing the doctoring doctor as he wants to doctor?",
-      "transcription": "wɛn ə ˈdɒktə ˈdɒktəz ə ˈdɒktə, dʌz ðə ˈdɒktə ˈdu(ː)ɪŋ ðə ˈdɒktərɪŋ ˈdɒktər æz ðə ˈdɒktə ˈbiːɪŋ ˈdɒktəd wɒnts tuː biː ˈdɒktəd ɔː dʌz ðə ˈdɒktə ˈdu(ː)ɪŋ ðə ˈdɒktərɪŋ ˈdɒktər æz hiː wɒnts tuː ˈdɒktə?",
-      "audio": "d3.mp3",
-      "difficulty": "difficult"
+      "transcription": "wɛn ə ˈdɒktə ˈdɒktəz ə ˈdɒktə, dʌz ðə ˈdɒktə ˈdu(ː)ɪŋ ðə ˈdɒktərɪŋ ˈdɒktər æz ðə ˈdɒktə ˈbiːɪŋ ˈdɒktəd wɒnts tuː biː ˈdɒktəd ɔː dʌz ðə ˈdɒktə ˈdu(ː)ɪŋ ðə ˈdɒktərɪŋ ˈdɒktər æz hiː wɒnts tuː ˈdɒktə?"
     },
     {
+      "audio": "d4.mp3",
+      "difficulty": "difficult",
       "name": "d4",
       "text": "Mary Mac's mother's making Mary Mac marry me. My mother's making me marry Mary Mac. Will I always be so Merry when Mary's taking care of me? Will I always be so merry when I marry Mary Mac?",
-      "transcription": "ˈmeəri mæks ˈmʌðəz ˈmeɪkɪŋ ˈmeəri mæk ˈmæri miː. maɪ ˈmʌðəz ˈmeɪkɪŋ miː ˈmæri ˈmeəri mæk. wɪl aɪ ˈɔːlweɪz biː səʊ ˈmɛri wɛn ˈmeəriz ˈteɪkɪŋ keər ɒv miː? wɪl aɪ ˈɔːlweɪz biː səʊ ˈmɛri wɛn aɪ ˈmæri ˈmeəri mæk?",
-      "audio": "d4.mp3",
-      "difficulty": "difficult"
+      "transcription": "ˈmeəri mæks ˈmʌðəz ˈmeɪkɪŋ ˈmeəri mæk ˈmæri miː. maɪ ˈmʌðəz ˈmeɪkɪŋ miː ˈmæri ˈmeəri mæk. wɪl aɪ ˈɔːlweɪz biː səʊ ˈmɛri wɛn ˈmeəriz ˈteɪkɪŋ keər ɒv miː? wɪl aɪ ˈɔːlweɪz biː səʊ ˈmɛri wɛn aɪ ˈmæri ˈmeəri mæk?"
     },
     {
+      "audio": "d5.mp3",
+      "difficulty": "difficult",
       "name": "d5",
       "text": "Out in the pasture the nature watcher watches the catcher. While the catcher watches the pitcher who pitches the balls. Whether the temperature's up or whether the temperature's down, the nature watcher, the catcher and the pitcher are always around. The pitcher pitches, the catcher catches and the watcher watches. So whether the temperature's rises or whether the temperature falls the nature watcher just watches the catcher who's watching the pitcher who's watching the balls.",
-      "transcription": "aʊt ɪn ðə ˈpɑːsʧə ðə ˈneɪʧə ˈwɒʧə ˈwɒʧɪz ðə ˈkæʧə. waɪl ðə ˈkæʧə ˈwɒʧɪz ðə ˈpɪʧə huː ˈpɪʧɪz ðə bɔːlz. ˈwɛðə ðə ˈtɛmprɪʧəz ʌp ɔː ˈwɛðə ðə ˈtɛmprɪʧəz daʊn, ðə ˈneɪʧə ˈwɒʧə, ðə ˈkæʧər ænd ðə ˈpɪʧər ɑːr ˈɔːlweɪz əˈraʊnd. ðə ˈpɪʧə ˈpɪʧɪz, ðə ˈkæʧə ˈkæʧɪz ænd ðə ˈwɒʧə ˈwɒʧɪz. səʊ ˈwɛðə ðə ˈtɛmprɪʧəz ˈraɪzɪz ɔː ˈwɛðə ðə ˈtɛmprɪʧə fɔːlz ðə ˈneɪʧə ˈwɒʧə ʤʌst ˈwɒʧɪz ðə ˈkæʧə huːz ˈwɒʧɪŋ ðə ˈpɪʧə huːz ˈwɒʧɪŋ ðə bɔːlz.",
-      "audio": "d5.mp3",
-      "difficulty": "difficult"
+      "transcription": "aʊt ɪn ðə ˈpɑːsʧə ðə ˈneɪʧə ˈwɒʧə ˈwɒʧɪz ðə ˈkæʧə. waɪl ðə ˈkæʧə ˈwɒʧɪz ðə ˈpɪʧə huː ˈpɪʧɪz ðə bɔːlz. ˈwɛðə ðə ˈtɛmprɪʧəz ʌp ɔː ˈwɛðə ðə ˈtɛmprɪʧəz daʊn, ðə ˈneɪʧə ˈwɒʧə, ðə ˈkæʧər ænd ðə ˈpɪʧər ɑːr ˈɔːlweɪz əˈraʊnd. ðə ˈpɪʧə ˈpɪʧɪz, ðə ˈkæʧə ˈkæʧɪz ænd ðə ˈwɒʧə ˈwɒʧɪz. səʊ ˈwɛðə ðə ˈtɛmprɪʧəz ˈraɪzɪz ɔː ˈwɛðə ðə ˈtɛmprɪʧə fɔːlz ðə ˈneɪʧə ˈwɒʧə ʤʌst ˈwɒʧɪz ðə ˈkæʧə huːz ˈwɒʧɪŋ ðə ˈpɪʧə huːz ˈwɒʧɪŋ ðə bɔːlz."
     },
     {
+      "audio": "d6.mp3",
+      "difficulty": "difficult",
       "name": "d6",
       "text": "I wish to wish the wish you wish to wish, but if you wish the wish the witch wishes, I won't wish the wish you wish to wish.",
-      "transcription": "aɪ wɪʃ tuː wɪʃ ðə wɪʃ juː wɪʃ tuː wɪʃ, bʌt ɪf juː wɪʃ ðə wɪʃ ðə wɪʧ ˈwɪʃɪz, aɪ wəʊnt wɪʃ ðə wɪʃ juː wɪʃ tuː wɪʃ.",
-      "audio": "d6.mp3",
-      "difficulty": "difficult"
+      "transcription": "aɪ wɪʃ tuː wɪʃ ðə wɪʃ juː wɪʃ tuː wɪʃ, bʌt ɪf juː wɪʃ ðə wɪʃ ðə wɪʧ ˈwɪʃɪz, aɪ wəʊnt wɪʃ ðə wɪʃ juː wɪʃ tuː wɪʃ."
     }
   ]
 }
