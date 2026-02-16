@@ -130,17 +130,17 @@ body {
 
 #transcription {
   font-style: italic;
+  color: #ccc;
 }
 
 .btn {
-  display: inline-block;
+  display: inline-flex;
+  justify-content: center;
   width: 50px;
   height: 50px;
   margin: 10px;
   font-size: 30px;
   line-height: 48px;
-  vertical-align: middle;
-  text-align: center;
   text-decoration: none;
   cursor: pointer;
   border: 1px solid #333;
@@ -149,7 +149,7 @@ body {
 
 .btn.hide {
   pointer-events: none;
-  opacity: 0;
+  opacity: 0.5;
 }
 
 .btn:hover {

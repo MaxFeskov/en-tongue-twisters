@@ -1,36 +1,26 @@
-export function isArr(arr) {
-  return Array.isArray(arr);
-}
-export function inArr(arr, item) {
-  return isArr(arr) ? arr.indexOf(item) !== -1 : false;
-}
-export function copyArr(arr) {
-  if (isArr(arr)) return arr.slice(0);
-  return [];
-}
-export function clearArr(arr) {
-  if (isArr(arr)) arr.splice(0, arr.length);
-}
-export function delFromArr(arr, item) {
-  if (isArr(arr)) {
-    const index = arr.indexOf(item);
-    if (~index) arr.splice(index, 1);
-  }
-}
-export function arrToObj(arr) {
-  if (isArr(arr)) {
-    const obj = {};
+export const isArr = (arr) => Array.isArray(arr);
 
-    arr.forEach((item, index) => {
-      obj[Number(index)] = item;
-    });
+export const inArr = (arr, item) =>
+  isArr(arr) ? arr.indexOf(item) !== -1 : false;
 
-    return obj;
-  }
+export const copyArr = (arr) => (isArr(arr) ? arr.slice(0) : []);
 
-  return {};
-}
-export function flatArr(arr) {
-  if (isArr(arr)) return [].concat(...arr);
-  return [];
-}
+export const clearArr = (arr) => isArr(arr) && arr.splice(0, arr.length);
+
+export const delFromArr = (arr, item) => {
+  if (!isArr(arr)) return;
+
+  const index = arr.indexOf(item);
+  if (~index) arr.splice(index, 1);
+};
+
+export const arrToObj = (arr) => {
+  if (!isArr(arr)) return {};
+
+  const obj = {};
+  arr.map((item, index) => (obj[Number(index)] = item));
+
+  return obj;
+};
+
+export const flatArr = (arr) => (isArr(arr) ? [].concat(...arr) : []);

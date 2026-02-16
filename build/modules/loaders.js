@@ -1,19 +1,16 @@
 import { isArr } from "./arrays.js";
 
-export function loadJSON(url) {
-  return fetch(url)
+export const loadJSON = (url) =>
+  fetch(url)
     .then((r) => r.json())
     .catch(() => console.log(`Error loaded ${url}`));
-}
 
-export function loadJSONList(urlArr) {
+export const loadJSONList = (urlArr) => {
   const resultArr = [];
 
-  if (isArr(urlArr)) {
-    urlArr.forEach((url) => {
-      resultArr.push(loadJSON(url));
-    });
-  }
+  if (!isArr(urlArr)) return;
+
+  urlArr.map((url) => resultArr.push(loadJSON(url)));
 
   return Promise.all(resultArr);
-}
+};
