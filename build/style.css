@@ -124,13 +124,25 @@ body {
 }
 
 #text,
-#transcription {
+#transcription,
+#record {
   margin: 0 0 20px;
 }
 
 #transcription {
   font-style: italic;
   color: #ccc;
+}
+
+#record {
+  color: #3333ff;
+}
+
+.pulse {
+  color: #ff3333 !important;
+  animation-name: fadeInOut;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 
 .btn {
@@ -155,4 +167,16 @@ body {
 .btn:hover {
   color: white;
   background: #333;
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 1;
+  }
 }

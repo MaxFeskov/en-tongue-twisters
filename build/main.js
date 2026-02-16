@@ -1,6 +1,7 @@
 import { isArr } from "./modules/arrays.js";
 import { loadJSON } from "./modules/loaders.js";
 import { getObjProp } from "./modules/objects.js";
+import recognition from "./modules/speech.js";
 
 (() => {
   const textEl = document.getElementById("text");
@@ -8,6 +9,8 @@ import { getObjProp } from "./modules/objects.js";
   const prevEl = document.getElementById("prev");
   const nextEl = document.getElementById("next");
   const playEl = document.getElementById("play");
+  const startEl = document.getElementById("start");
+  const recordEl = document.getElementById("record");
 
   loadJSON("data/catalog.json").then((data) => {
     const twisters = getObjProp(data, ["twisters"]);
@@ -68,6 +71,39 @@ import { getObjProp } from "./modules/objects.js";
             audio.play();
           });
         }
+      }
+
+      if (startEl) {
+        startEl.addEventListener("click", () => {
+          recognition.start();
+
+          if (recordEl) {
+            recordEl.innerHTML = "Recording in progress...";
+            recordEl.classList.add("pulse");
+          }
+        });
+
+        recognition.onspeechend = () => {
+          recognition.stop();
+
+          if (recordEl) {
+            recordEl.classList.remove("pulse");
+          }
+        };
+
+        recognition.onerror = (event) => {
+          recordEl.innerHTML = event.error;
+
+          if (recordEl) {
+            recordEl.classList.remove("pulse");
+          }
+        };
+
+        recognition.onresult = (event) => {
+          if (recordEl) {
+            recordEl.innerHTML = event.results[0][0].transcript;
+          }
+        };
       }
     }
   });
